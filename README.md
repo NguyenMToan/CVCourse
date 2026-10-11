@@ -13,38 +13,38 @@ Every number quoted on a slide is computed rather than copied from a paper. If a
 
 ### Part 1 — Foundations
 
-| # | Topic | Slides | Notebook | Figures |
-|---|---|---|---|---|
-| 1 | Introduction & image formation | *(not in this repo)* | — | — |
-| 2 | Classical image processing | 69 pp | 59 cells | 32 |
-| 3 | Image classification & linear models | 63 pp | 59 cells | 18 |
-| 4 | From neural networks to CNNs | 43 pp | 40 cells | 17 |
+| # | Topic |
+|---|---|
+| 1 | Introduction & image formation | 
+| 2 | Classical image processing | 
+| 3 | Image classification & linear models | 
+| 4 | From neural networks to CNNs | 
 
 ### Part 2 — Core architectures
 
-| # | Topic | Slides | Notebook | Figures |
-|---|---|---|---|---|
-| 5 | CNN architectures | 45 pp | 36 cells | 10 |
-| 6 | Vision transformers | 46 pp | 51 cells | 14 |
-| 7 | Object detection I | *planned* | — | — |
-| 8 | Object detection II | *planned* | — | — |
+| # | Topic |
+|---|---|
+| 5 | CNN architectures | 
+| 6 | Vision transformers |
+| 7 | Object detection I |
+| 8 | Object detection II | 
 
 ### Part 3 — Dense prediction
 
-| # | Topic | Slides | Notebook | Figures |
-|---|---|---|---|---|
-| 9 | Segmentation | *planned* | — | — |
-| 10 | Pose estimation & faces | *planned* | — | — |
-| 11 | Video & motion | *planned* | — | — |
+| # | Topic | 
+|---|---|
+| 9 | Segmentation |
+| 10 | Pose estimation & faces | 
+| 11 | Video & motion |
 
 ### Part 4 — Modern topics
 
-| # | Topic | Slides | Notebook | Figures |
-|---|---|---|---|---|
-| 12 | Self-supervised learning | *planned* | — | — |
-| 13 | Generative models | *planned* | — | — |
-| 14 | 3D vision & emerging topics | *planned* | — | — |
-| 15 | Project presentations | — | — | — |
+| # | Topic | 
+|---|---|
+| 12 | Self-supervised learning |
+| 13 | Generative models |
+| 14 | 3D vision & emerging topics |
+| 15 | Project presentations |
 
 
 
