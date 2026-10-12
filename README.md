@@ -88,6 +88,5 @@ Teams of ~6. Project topics released **Week 3**, proposals due **Week 5**, mid-t
 
 Each lecture ends with a 30-minute hands-on session using that week's notebook.
 
-The mid-term in Week 9 falls at the end of Part 3's first lecture, so it covers Parts 1–2
-and segmentation — everything through the core architectures. Part 4 is assessed through
+The mid-term in Week 9 falls at the end of Part 3's first lecture, so it covers Parts 1–2 — everything through the core architectures. Parts 3-4 are assessed through
 the project rather than examined.
